@@ -1,2 +1,2 @@
 # subtitles
-Created movie subtitles
+Created movie subtitles with AI translations
